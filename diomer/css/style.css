@@ -1,0 +1,74 @@
+
+header {background-color: rgb(56, 104, 116);
+    background-repeat: no-repeat;
+    background-size: 120px 160px;
+    background-position: center;
+}
+
+#foto { width: 120px; height: 160px;
+    display:block ;
+    margin: auto ;
+    align-items: center;
+    }
+
+h1 {font-family: 'Nunito', sans-serif;
+    text-align: center;
+    color:rgb(56, 104, 116) ;
+    background-color: rgb(99, 75, 75);
+}
+
+#margen {margin: 150px;
+}
+
+h2 {font-family: 'Nunito', sans-serif;
+    font-weight: 600px;
+    color:rgb(56, 104, 116) ;
+    background-color: rgb(99, 75, 75);
+}
+
+h4 {font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.tabla {border="0";
+    margin: 5px 40px;
+}
+
+span.resaltar {font-weight: bold;
+                font-style: italic;
+}
+
+span.elevar {font-weight: bold;     
+}
+
+footer{background-color: rgb(67, 67, 214);
+}
+
+.icono { display:inline-block;
+        margin: auto;
+        width: 40px; height: 40px;
+        vertical-align: middle;
+}
+
+main { background-color: lightblue;
+    background-image: url('../img/FOTO2.jpeg');
+    background-size: 300px;
+    background-position:top;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 300px;
+}
+
+img { height: 200px; width: 270px;
+    margin: 10px 80px;
+    display: inline-block;
+}
+
+.volver {font-family: sans-serif;
+    color: rgb(67, 67, 214);
+    font-weight: normal;
+    font-size: 20px;
+    text-align: center;
+
+}
